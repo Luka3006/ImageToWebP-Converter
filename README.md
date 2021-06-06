@@ -18,8 +18,6 @@ Note: The images are converted with 80% quality. But you mostly see no differenc
   <img src="https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/before.jpg?raw=true" width="350" title="before">
   <img src="https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/after.webp?raw=true" width="350" alt="after">
 </p>
-![before](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/before.jpg?raw=true)
-![after](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/after.webp?raw=true)
 
 ## How it works
 The python script uses the _[WebP Conversion Tool](https://developers.google.com/speed/webp)_ and just runs this tool over every file in the "input" folder.
