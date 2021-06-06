@@ -8,4 +8,4 @@ A python tool to convert unlimited images (.png, .jpg) to .webp images.
 4. Your converted images are located in the "output" folder
 
 ### How it works
-The python script uses the [WebP Conversion Tool](https://developers.google.com/speed/webp)_ and just runs this tool over every file in the "input" folder.
+The python script uses the [WebP Conversion Tool](https://developers.google.com/speed/webp) and just runs this tool over every file in the "input" folder.
