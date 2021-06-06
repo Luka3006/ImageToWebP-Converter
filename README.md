@@ -14,6 +14,10 @@ The easiest way to convert images to WebP is to use Online Converters. But there
 Note: The images are converted with 80% quality. But you mostly see no difference.
 
 ### Example:
+<p align="center">
+  <img src="https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/before.jpg?raw=true" width="350" title="before">
+  <img src="https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/after.webp?raw=true" width="350" alt="after">
+</p>
 ![before](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/before.jpg?raw=true)
 ![after](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/after.webp?raw=true)
 
