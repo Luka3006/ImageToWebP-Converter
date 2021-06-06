@@ -13,6 +13,9 @@ The easiest way to convert images to WebP is to use Online Converters. But there
 
 Note: The images are converted with 80% quality. But you mostly see no difference.
 
+### Example:
+![before](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/before.jpg?raw=true)
+![after](https://github.com/Luka3006/ImageToWebp-Converter/blob/main/example/after.webp?raw=true)
 
 ## How it works
 The python script uses the _[WebP Conversion Tool](https://developers.google.com/speed/webp)_ and just runs this tool over every file in the "input" folder.
